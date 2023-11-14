@@ -1,7 +1,7 @@
 ## <h1 align="center"> Olá dev! Eu sou o  Miguel Lúcio</h1>
 
 - 🔭 Desenvolvedor front-end (rumo ao full-stack)
-- 🌱 Estudando Node, Express e psql
+- 🌱 Estudando Pyton ...
 - 📖 Contate-me: miguelluciosilva@gmail.com
 
 
