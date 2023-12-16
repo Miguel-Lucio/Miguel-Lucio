@@ -1,6 +1,6 @@
 ## <h1 align="center"> Olá dev! Eu sou o  Miguel Lúcio</h1>
 
-- 🔭 Desenvolvedor front-end full stack
+- 🔭 Desenvolvedor full stack
 - 🌱 Estudando Pyton, Django ...
 - 📖 Contate-me: miguelluciosilva@gmail.com
 
