@@ -1,7 +1,7 @@
 ## <h1 align="center"> Olá dev! Eu sou o  Miguel Lúcio</h1>
 
 - 🔭 Desenvolvedor full stack
-- 🌱 Estudando C#, .NET ...
+- 🌱 Estudando Java, Angular ...
 - 📖 Contate-me: miguelluciosilva@gmail.com
 
 
